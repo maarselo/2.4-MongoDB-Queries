@@ -103,6 +103,5 @@ No deployments required. The project runs locally with MongoDB.
 Suggestions to improve queries or alternative query designs are welcome.  
 Feel free to propose additional queries for practice.  
 
----
 
-## 🙏 **Thank you for reviewing this project!** 🚀
+### 🙏 **Thank you for reviewing this project!** 🚀
